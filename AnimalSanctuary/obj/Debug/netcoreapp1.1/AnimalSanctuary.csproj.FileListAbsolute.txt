@@ -1,0 +1,10 @@
+/Users/Guest/Projects/AnimalSanctuary/AnimalSanctuary/bin/Debug/netcoreapp1.1/AnimalSanctuary.deps.json
+/Users/Guest/Projects/AnimalSanctuary/AnimalSanctuary/bin/Debug/netcoreapp1.1/AnimalSanctuary.runtimeconfig.json
+/Users/Guest/Projects/AnimalSanctuary/AnimalSanctuary/bin/Debug/netcoreapp1.1/AnimalSanctuary.runtimeconfig.dev.json
+/Users/Guest/Projects/AnimalSanctuary/AnimalSanctuary/bin/Debug/netcoreapp1.1/AnimalSanctuary.dll
+/Users/Guest/Projects/AnimalSanctuary/AnimalSanctuary/bin/Debug/netcoreapp1.1/AnimalSanctuary.pdb
+/Users/Guest/Projects/AnimalSanctuary/AnimalSanctuary/obj/Debug/netcoreapp1.1/AnimalSanctuary.csprojResolveAssemblyReference.cache
+/Users/Guest/Projects/AnimalSanctuary/AnimalSanctuary/obj/Debug/netcoreapp1.1/AnimalSanctuary.AssemblyInfo.cs
+/Users/Guest/Projects/AnimalSanctuary/AnimalSanctuary/obj/Debug/netcoreapp1.1/AnimalSanctuary.dll
+/Users/Guest/Projects/AnimalSanctuary/AnimalSanctuary/obj/Debug/netcoreapp1.1/AnimalSanctuary.pdb
+/Users/Guest/Projects/AnimalSanctuary/AnimalSanctuary/obj/Debug/netcoreapp1.1/AnimalSanctuary.csproj.CoreCompileInputs.cache

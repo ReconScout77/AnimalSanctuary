@@ -1,0 +1,15 @@
+/Users/Guest/Projects/AnimalSanctuary/AnimalSanctuaryTests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Projects/AnimalSanctuary/AnimalSanctuaryTests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Projects/AnimalSanctuary/AnimalSanctuaryTests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Projects/AnimalSanctuary/AnimalSanctuaryTests/bin/Debug/netcoreapp1.1/AnimalSanctuaryTests.deps.json
+/Users/Guest/Projects/AnimalSanctuary/AnimalSanctuaryTests/bin/Debug/netcoreapp1.1/AnimalSanctuaryTests.runtimeconfig.json
+/Users/Guest/Projects/AnimalSanctuary/AnimalSanctuaryTests/bin/Debug/netcoreapp1.1/AnimalSanctuaryTests.runtimeconfig.dev.json
+/Users/Guest/Projects/AnimalSanctuary/AnimalSanctuaryTests/bin/Debug/netcoreapp1.1/AnimalSanctuaryTests.dll
+/Users/Guest/Projects/AnimalSanctuary/AnimalSanctuaryTests/bin/Debug/netcoreapp1.1/AnimalSanctuaryTests.pdb
+/Users/Guest/Projects/AnimalSanctuary/AnimalSanctuaryTests/bin/Debug/netcoreapp1.1/AnimalSanctuary.dll
+/Users/Guest/Projects/AnimalSanctuary/AnimalSanctuaryTests/bin/Debug/netcoreapp1.1/AnimalSanctuary.pdb
+/Users/Guest/Projects/AnimalSanctuary/AnimalSanctuaryTests/obj/Debug/netcoreapp1.1/AnimalSanctuaryTests.csprojResolveAssemblyReference.cache
+/Users/Guest/Projects/AnimalSanctuary/AnimalSanctuaryTests/obj/Debug/netcoreapp1.1/AnimalSanctuaryTests.csproj.CoreCompileInputs.cache
+/Users/Guest/Projects/AnimalSanctuary/AnimalSanctuaryTests/obj/Debug/netcoreapp1.1/AnimalSanctuaryTests.AssemblyInfo.cs
+/Users/Guest/Projects/AnimalSanctuary/AnimalSanctuaryTests/obj/Debug/netcoreapp1.1/AnimalSanctuaryTests.dll
+/Users/Guest/Projects/AnimalSanctuary/AnimalSanctuaryTests/obj/Debug/netcoreapp1.1/AnimalSanctuaryTests.pdb

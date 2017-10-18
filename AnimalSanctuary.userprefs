@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{241D5B83-7614-4A17-96EE-FED039E353B5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AnimalSanctuary/Models/Repositories/EFAnimalRepository.cs">
+    <Files>
+      <File FileName="AnimalSanctuary/Models/Repositories/IAnimalRepository.cs" Line="12" Column="36" />
+      <File FileName="AnimalSanctuary/Models/Repositories/EFAnimalRepository.cs" Line="33" Column="1" />
+      <File FileName="AnimalSanctuary/Controllers/AnimalController.cs" Line="47" Column="1" />
+      <File FileName="AnimalSanctuary/Models/Animal.cs" Line="15" Column="37" />
+      <File FileName="AnimalSanctuaryTests/ModelTests/TestDbContext.cs" Line="12" Column="1" />
+      <File FileName="AnimalSanctuary/Models/AnimalSanctuaryContext.cs" Line="19" Column="1" />
+      <File FileName="AnimalSanctuaryTests/ControllerTests/AnimalControllerTest.cs" Line="154" Column="1" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="AnimalSanctuary" expanded="True">
+            <Node name="AnimalSanctuaryTests" expanded="True">
+              <Node name="AnimalSanctuaryTests" expanded="True">
+                <Node name="AnimalControllerTest" expanded="True">
+                  <Node name="Db_Delete_Test" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Guest/Projects/AnimalSanctuary/AnimalSanctuaryTests/ControllerTests/AnimalControllerTest.cs" relfile="AnimalSanctuaryTests/ControllerTests/AnimalControllerTest.cs" line="149" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AnimalSanctuary PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
